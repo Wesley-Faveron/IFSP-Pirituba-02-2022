@@ -1,2 +1,3 @@
-# IFSP-Pirituba-02-2022
-Código desenvolvidos ao longo do segundo semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP Campus Pirituba
+# 2º Semestre de Análise e Desenvolvimento de Sistemas
+Após a mudança do campus São Paulo para o campus de Pirituba, minha grade curricular acabou se tornando um pouco desorganizada. Por conta disso, acabei misturando disciplinas de diferentes semestres. No entanto, mesmo diante dessa situação, meu foco sempre esteve em aprofundar e expandir meus conhecimentos no vasto universo da programação.
+Mesmo com a bagunça na sequência das disciplinas, procurei aproveitar ao máximo cada oportunidade de aprendizado. Dediquei-me a explorar os diferentes tópicos e conceitos, buscando uma compreensão mais abrangente e sólida. Enfrentar esse desafio me permitiu adquirir uma perspectiva mais ampla, conectando conhecimentos de diferentes áreas e enriquecendo minha trajetória no campo da programação.
